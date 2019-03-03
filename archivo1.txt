@@ -1,1 +1,4 @@
-﻿Este es el archivo 1 para explicar GIT y GitHub.
+﻿Hola, Este es el archivo 1 para explicar GIT y GitHub.
+
+Modificamos este archivo para corregir un error que existía ya que no habíamos 
+saludado.
