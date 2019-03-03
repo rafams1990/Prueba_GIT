@@ -1,1 +1,3 @@
-﻿Este es el archivo 3 para explicar GIT y GitHub.
+﻿Hola, Este es el archivo 3 para explicar GIT y GitHub.
+
+Vamos a corregir también este archivo saludando.
